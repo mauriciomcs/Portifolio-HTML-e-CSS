@@ -1,3 +1,4 @@
 # Portifolio-HTML-e-CSS
 Projeto de desenvolvimento do Curso de HTML e CSS da Alura
-![image](https://user-images.githubusercontent.com/88091792/220065453-10ae24ef-8ab4-4de9-9ae5-15ec6c7ab6a0.png)
+![image](https://user-images.githubusercontent.com/88091792/220070120-416ad1b7-f313-4ca5-996f-f595da3df904.png)
+
